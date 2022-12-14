@@ -1,0 +1,16 @@
+body {background:  #ffffff;
+font-family: "Trebuchet MS", Arial,
+Helvetica, sans-serif;
+color: #87a96b}
+div {clear:both}
+div.postcard {padding:15px}
+h1 {margin:0}
+p {margin-top:0; margin-bottom: 12px}
+h1, h2 {margin: 0}
+h2 {border-top: 1px solid #ffffff}
+p {margin-top:0; margin bottom: 12px;
+font-size:12px; line-height:1.2}
+p.sales_info {font-style: italic}
+img.odd {float:left; padding-right:10px}
+img.even {float:right;padding-left: 10px;
+background:#ffffff}

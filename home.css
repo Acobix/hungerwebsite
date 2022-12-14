@@ -1,0 +1,14 @@
+body {background:#87a96b}
+p {font-size: 16px}
+
+a:link, a:visited {color:#4D65A0}
+a:focus, a:hover, a:active {color:#7A4DA0;
+text-decoration:none; font-weight:bold}
+img.little {border: 1px solid #ffffff}
+p.image_links {white-space:nowrap}
+p.copyright {font-size: smaller;
+padding-top: 40px}
+div.nav_bar {position: absolute; left: 10px; top: 10px; text-align: right}
+div.nav_bar a {font-size: 11px}
+div.main {margin-left:90px}
+div.main p {font-style:italic}
